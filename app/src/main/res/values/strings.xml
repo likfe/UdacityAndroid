@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UdacityAndroid</string>
+
+    <!-- main page -->
+    <string name="main_title">My Nanodegree Apps !</string>
+    <string name="main_t1">Popular Movies</string>
+    <string name="main_t2">Stock Hawk</string>
+    <string name="main_t3">Build It Bigger</string>
+    <string name="main_t4">Make Your App Material</string>
+    <string name="main_t5">Go Ubiquitous</string>
+    <string name="main_t6">Capstone</string>
+
+
+
+</resources>
